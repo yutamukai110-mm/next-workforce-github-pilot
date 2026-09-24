@@ -1,2 +1,3 @@
 // Generic fixture for testing GitHub evidence synchronization.
-console.log("github evidence pilot");
+const evidencePilot = "github evidence pilot";
+console.log(evidencePilot);
